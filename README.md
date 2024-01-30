@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I am currently working on my portfolio. It will take me some time to finish it.
+- 🌱 I’m currently learning TypeScript and Next.js
+
 <!--
 **elianoli/elianoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
