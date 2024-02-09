@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am currently working on my portfolio. It will take me some time to finish it.
+- 🔭 I am currently working on my portfolio.
 - 🌱 I’m currently learning TypeScript and Next.js
 
 <!--
