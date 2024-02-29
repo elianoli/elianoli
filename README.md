@@ -1,4 +1,9 @@
-### Hi there 👋
+👋 **Hi, I'm Elian** 
+---
+<a href="https://youtu.be/RH5-F926Z0M?si=BaSV7OWDZyP-CXTl">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianoli&theme=dracula" />
+</a>
+
 
 - 🔭 I am currently working on my portfolio.
 - 🌱 I’m currently learning TypeScript and Next.js
