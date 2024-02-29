@@ -1,6 +1,6 @@
 👋 **Hi, I'm Elian** 
 ---
-<a href="https://youtu.be/RH5-F926Z0M?si=BaSV7OWDZyP-CXTl">
+<a href="https://youtube.com/shorts/0om_ujf104g?si=nGdA33frDcxd8L_f">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianoli&theme=dracula" />
 </a>
 
