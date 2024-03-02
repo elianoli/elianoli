@@ -5,8 +5,7 @@
 </a>
 
 
-- 🔭 I am currently working on my portfolio.
-- 🌱 I’m currently learning TypeScript and Next.js
+- 🌱 I'm currently learning Svelte and Rust
 
 <!--
 **elianoli/elianoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
