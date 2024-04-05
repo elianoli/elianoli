@@ -4,7 +4,6 @@
 </a>
 
 - 🔭 I’m currently working on some personal projects
-- 🌱 I'm currently learning TS and Rust
 
 ## 💻 Dev and Tools
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/> 
